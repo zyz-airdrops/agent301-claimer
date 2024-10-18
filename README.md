@@ -27,12 +27,12 @@
 
 2. Clone this repository
    ```shell
-   git clone https://github.com/akasakaid/tomarketod.git
+   git clone https://github.com/zyz-airdrops/agent301-claimer.git
    ```
 
-3. goto tomarketod directory
+3. goto agent301-claimer directory
    ```
-   cd tomarketod
+   cd agent301-claimer
    ```
 
 4. install the require library
