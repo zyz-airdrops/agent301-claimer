@@ -1,5 +1,7 @@
 # Agent 301 - Auto Claim Bot
 
+[Register here](https://t.me/Agent301Bot/app?startapp=onetime5760224255)
+
 <div align="center">
   <img src="agent.jpg">
 </div>
